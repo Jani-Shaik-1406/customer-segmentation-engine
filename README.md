@@ -6,7 +6,7 @@
 **Email**: shaikjanishariff@gmail.com  
 **LinkedIn**: [jani-shariff-shaik](https://www.linkedin.com/in/jani-shariff-shaik-374998292/)  
 **Portfolio**: [janishariffshaik.wixstudio.com/portfolio](https://janishariffshaik.wixstudio.com/portfolio)  
-**GitHub**: [github.com/janishariffshaik](https://github.com/janishariffshaik)
+**GitHub**: [github.com/janishariffshaik](https://github.com/Jani-Shaik-1406)
 
 Customer Personality Analysis is a detailed analysis of a company’s ideal customers. It helps a business better understand its customers and makes it easier to tailor products based on specific needs, behaviors, and concerns across different segments.
 
